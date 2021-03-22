@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página de cuantica!"
 ---
-Tu texto
+Este texto esta de más
 Utiliza la flecha hacia la izquierda para volver!
